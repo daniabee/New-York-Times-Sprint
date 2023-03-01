@@ -1,0 +1,18 @@
+{
+  "response": {
+    "docs": [
+      {
+        "headline": { "main": "First Found" },
+        "web_url": "https://www.nytimes.com/2023/02/28/opinion/social-security-retirement-age.html"
+      },
+      {
+        "headline": { "main": "Second Found" },
+        "web_url": "https://www.nytimes.com/2023/02/28/opinion/social-security-retirement-age.html"
+      },
+      {
+        "headline": { "main": "Third Found" },
+        "web_url": "https://www.nytimes.com/2023/02/28/opinion/social-security-retirement-age.html"
+      }
+    ]
+  }
+}

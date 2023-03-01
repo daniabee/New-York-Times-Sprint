@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Brendan Fraser Wants to Be Worthy of His Comeback",
+      "abstract": "“I’m aware of where I was, where I went and where I am now,” says the actor, who is nominated for an Oscar for his remarkable comeback in “The Whale.”",
+      "url": "https://www.nytimes.com/2023/03/01/movies/brendan-fraser-oscar-the-whale.html",
+      "uri": "nyt://article/af1549c0-8130-5fda-a4de-a91be1cb56b4",
+      "byline": "By Kyle Buchanan",
+      "item_type": "Article",
+      "updated_date": "2023-03-01T13:52:54-05:00",
+      "created_date": "2023-03-01T12:58:24-05:00",
+      "published_date": "2023-03-01T12:58:24-05:00",
+      "material_type_facet": "",
+      "kicker": "The Projectionist",
+      "des_facet": [
+        "Movies",
+        "Content Type: Personal Profile",
+        "Actors and Actresses",
+        "Academy Awards (Oscars)",
+        "The Whale (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Fraser, Brendan", "Aronofsky, Darren"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/02/multimedia/01projectionist-brendanfraser-01-lkjt/01projectionist-brendanfraser-01-lkjt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1358,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendan Fraser was cast in “The Whale” after the director Darren Aronofsky came across an old movie trailer featuring the actor.",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/02/multimedia/01projectionist-brendanfraser-01-lkjt/01projectionist-brendanfraser-01-lkjt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendan Fraser was cast in “The Whale” after the director Darren Aronofsky came across an old movie trailer featuring the actor.",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/02/multimedia/01projectionist-brendanfraser-01-lkjt/01projectionist-brendanfraser-01-lkjt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendan Fraser was cast in “The Whale” after the director Darren Aronofsky came across an old movie trailer featuring the actor.",
+          "copyright": "Chantal Anderson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kytA38"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Kandinsky Painting Sells for $44.9 Million at Auction",
+      "abstract": "The work by the Russian-born modernist was sold by Sotheby’s in London during a week of softening auctions for modern works.",
+      "url": "https://www.nytimes.com/2023/03/01/arts/design/kandinsky-auction-sothebys-christies.html",
+      "uri": "nyt://article/6ab038c8-3fd8-5023-9353-e432628be50d",
+      "byline": "By Scott Reyburn",
+      "item_type": "Article",
+      "updated_date": "2023-03-01T16:37:57-05:00",
+      "created_date": "2023-03-01T16:25:56-05:00",
+      "published_date": "2023-03-01T16:25:56-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Auctions", "Art"],
+      "org_facet": ["Sotheby's", "Christie's"],
+      "per_facet": [
+        "Kandinsky, Wassily",
+        "Varo, Remedios",
+        "Picasso, Pablo",
+        "Sami, Mohammed (1984- )",
+        "Yearwood-Dan, Michaela"
+      ],
+      "geo_facet": ["London (England)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01kandinsky-sale-jtzq/01kandinsky-sale-jtzq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1870,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Murnau With Church II” (1910) by Wassily Kandinsky.",
+          "copyright": "Wassily Kandinsky/Artists Rights Society (ARS), New York; via Sotheby’s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01kandinsky-sale-jtzq/01kandinsky-sale-jtzq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Murnau With Church II” (1910) by Wassily Kandinsky.",
+          "copyright": "Wassily Kandinsky/Artists Rights Society (ARS), New York; via Sotheby’s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01kandinsky-sale-jtzq/01kandinsky-sale-jtzq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Murnau With Church II” (1910) by Wassily Kandinsky.",
+          "copyright": "Wassily Kandinsky/Artists Rights Society (ARS), New York; via Sotheby’s"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kE9kwY"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Pharrell and Luxury Fashion’s Hip-Hop Obsession",
+      "abstract": "The hitmaker has been named a creative director at Louis Vuitton, building another bridge between two worlds with decades of history.",
+      "url": "https://www.nytimes.com/2023/03/01/arts/music/popcast-hip-hop-fashion.html",
+      "uri": "nyt://article/7b52c682-0757-5d3b-a85e-1d33a8545a5d",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-03-01T15:47:04-05:00",
+      "created_date": "2023-03-01T09:38:53-05:00",
+      "published_date": "2023-03-01T09:38:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "Fashion and Apparel",
+        "audio-neutral-informative"
+      ],
+      "org_facet": ["Louis Vuitton"],
+      "per_facet": ["Williams, Pharrell"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01popcast-khwq/01popcast-khwq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1354,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Valerie Macon/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01popcast-khwq/01popcast-khwq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Valerie Macon/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/01popcast-khwq/01popcast-khwq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Valerie Macon/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Y9zcyf"
+    }
+  ]
+}
