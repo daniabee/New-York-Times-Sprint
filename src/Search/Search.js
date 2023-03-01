@@ -2,6 +2,7 @@ import { useState } from "react";
 import "../Search/Search.css";
 import { searchArticles } from "../apiCalls";
 import { Link } from "react-router-dom";
+import userEvent from "@testing-library/user-event";
 
 const Search = () => {
   const [userInput, setUserInput] = useState("");
@@ -14,6 +15,7 @@ const Search = () => {
   const handleClick = async () => {
     const found = await searchArticles(userInput);
     setFoundArticles(found);
+    setUserInput("");
   };
 
   const showArticles = () => {
@@ -27,11 +29,18 @@ const Search = () => {
   };
 
   return (
-    <div>
+    <div className="searchPage">
       <h1>Search for NYT articles!</h1>
       <div>
-        <input type="text" onChange={(e) => handleChange(e)} />
-        <button onClick={handleClick}>Search</button>
+        <input
+          className="userInput"
+          type="text"
+          value={userInput}
+          onChange={(e) => handleChange(e)}
+        />
+        <button className="searchButton" onClick={handleClick}>
+          Search
+        </button>
       </div>
       {showArticles()}
     </div>
