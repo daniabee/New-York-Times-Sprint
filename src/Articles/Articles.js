@@ -14,7 +14,7 @@ const Articles = ({ articles }) => {
 
   return (
     <div>
-      <h1>New York Times Articles</h1>
+      <h1 className="appTitle">New York Times Articles</h1>
       <div className="articles">{allArticles}</div>
     </div>
   );

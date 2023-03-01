@@ -2,6 +2,9 @@
   height: auto;
   width: 15vw;
   margin: 5%;
+  text-decoration: none;
+  color: black;
+  padding: 5%;
 }
 
 .articleImg {
@@ -17,4 +20,8 @@
 
 .article:hover {
   cursor: pointer;
+}
+
+.article:hover {
+  box-shadow: 0 0 10px 5px black;
 }

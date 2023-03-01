@@ -3,10 +3,16 @@ import "../Navigation/Navigation.css";
 
 const Navigation = () => {
   return (
-    <nav className="nav">
-      <Link to="/">Home</Link>
-      <Link to="/search">Search Articles</Link>
-    </nav>
+    <div className="box">
+      <nav className="nav">
+        <Link className="link" to="/">
+          Home
+        </Link>
+        <Link className="link" to="/search">
+          Search Articles
+        </Link>
+      </nav>
+    </div>
   );
 };
 

@@ -3,3 +3,8 @@
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
 }
+
+.appTitle {
+  font-size: 3vw;
+  margin: 1%;
+}

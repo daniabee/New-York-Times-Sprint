@@ -1,0 +1,20 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.detailsTitle {
+  font-size: 2vw;
+  text-align: center;
+}
+
+.detailsImg {
+  height: auto;
+  width: 50vw;
+}
+
+.info {
+  width: 50vw;
+}

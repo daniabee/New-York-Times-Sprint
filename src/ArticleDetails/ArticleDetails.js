@@ -8,13 +8,13 @@ const ArticleDetails = ({ articles }) => {
   const found = articles[id];
 
   return (
-    <div>
-      <h1>{found.title}</h1>
-      <img src={found.multimedia[1].url} />
-      <p>"{found.abstract}"</p>
-      <p>{found.byline}</p>
-      <p>{found.published_date}</p>
-      <Link to={found.short_url}>NYT Atricle</Link>
+    <div className="details">
+      <h1 className="detailsTitle">{found.title}</h1>
+      <img className="detailsImg" src={found.multimedia[1].url} />
+      <p className="info">{found.abstract}</p>
+      <p className="info">{found.byline}</p>
+      <p className="info">{found.published_date}</p>
+      <Link to={found.short_url}>See Article</Link>
     </div>
   );
 };
