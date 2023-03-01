@@ -1,0 +1,20 @@
+.article {
+  height: auto;
+  width: 15vw;
+  margin: 5%;
+}
+
+.articleImg {
+  height: 10vw;
+  width: auto;
+}
+
+.articleTitle {
+  text-align: center;
+  text-overflow: ellipsis;
+  font-size: 1vw;
+}
+
+.article:hover {
+  cursor: pointer;
+}
