@@ -4,7 +4,6 @@ export const getArticles = async () => {
       "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=mwbc3jnNCjCTXXmP6F8jDu02LM1YUmDm"
     );
     const data = await response.json();
-    console.log(data.results);
     return data.results;
   } catch {
     throw new Error("There was a problem");
