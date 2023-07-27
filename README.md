@@ -1,8 +1,8 @@
-# Take Home Challenge
+# New York Times Sprint Challange
 <img width="1430" alt="Screenshot 2023-07-27 at 10 02 48 AM" src="https://github.com/daniabee/New-York-Times-Sprint/assets/108088961/6a71b628-98f6-46eb-9195-9c339aa49ba2">
 
 ## MVP requirements:
-
+8 hours to create:
 - A list of articles
 - A “detailed” view for each article (as opposed to summary/list view)
 - Articles in the list must link to the detailed article view you create
