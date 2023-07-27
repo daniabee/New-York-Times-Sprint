@@ -1,4 +1,5 @@
 # Take Home Challenge
+<img width="1430" alt="Screenshot 2023-07-27 at 10 02 48 AM" src="https://github.com/daniabee/New-York-Times-Sprint/assets/108088961/6a71b628-98f6-46eb-9195-9c339aa49ba2">
 
 ## MVP requirements:
 
